@@ -1,0 +1,5 @@
+c:\users\mighty\documents\visual studio 2015\Projects\FactorialCalculators\FactorialCalculators\bin\Debug\FactorialCalculators.exe.config
+c:\users\mighty\documents\visual studio 2015\Projects\FactorialCalculators\FactorialCalculators\bin\Debug\FactorialCalculators.exe
+c:\users\mighty\documents\visual studio 2015\Projects\FactorialCalculators\FactorialCalculators\bin\Debug\FactorialCalculators.pdb
+c:\users\mighty\documents\visual studio 2015\Projects\FactorialCalculators\FactorialCalculators\obj\Debug\FactorialCalculators.exe
+c:\users\mighty\documents\visual studio 2015\Projects\FactorialCalculators\FactorialCalculators\obj\Debug\FactorialCalculators.pdb
